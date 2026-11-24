@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Entry for make.fun's "Sum up 24 November's world news in one image".
 
-The image is bundled in the repository; the program copies it to
-/output/entry.png unchanged, so both grading runs produce identical bytes.
+The poster is committed next to this file; the program copies it into
+/output/entry.png byte-for-byte so both grading runs see identical output.
 """
 
 import argparse
